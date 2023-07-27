@@ -1,2 +1,2 @@
-# Linear-Regression-Bike-Sharing
-In this project I have worked with a data set based on a US based Bike selling and renting Company facing loss due Pandemic and wants to analyze their past data and build a model that would help them to target such factors that could help them increase their sell and overcome the loss.  
+# Impact on Bike Sales: Regression Analysis for Recovery
+This research undertaking involves an extensive examination of a dataset pertaining to a US-based bicycle retail and rental enterprise that encountered financial losses amid the pandemic. The objective is to meticulously analyze historical data with the aim of constructing a predictive model. This model aims to identify critical factors that may bolster sales and facilitate the company in mitigating the pandemic-induced losses. The approach adopted to achieve this goal relies on employing a machine learning algorithm, specifically Linear Regression.
