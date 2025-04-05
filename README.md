@@ -1,3 +1,5 @@
+# **Bike Sharing Demand Prediction Analysis**
+
 ## **Introduction**  
 This project analyzes a dataset from a US-based bike-sharing company containing **730 days of rental records** (2018-2019). The data includes features like weather conditions (`temp`, `hum`, `windspeed`), temporal variables (`season`, `month`, `weekday`), and usage metrics (`casual`, `registered`, `cnt`). The goal is to understand patterns in bike rental demand and build a predictive model to help the company optimize operations and recover from pandemic-related losses.  
 
